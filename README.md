@@ -4,4 +4,4 @@
 
 ## Author : [HEMANTH NARLA SUBRAMANYAM](https://www.linkedin.com/in/hemanth-ns/) 
 
-### This Project is the Applied Data Science Capstone Project of the IBM Data Science Professional Certificate
+### This Project is the Applied Data Science Capstone Project of the IBM Data Science Professional Certificate 
